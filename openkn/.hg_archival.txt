@@ -1,6 +1,0 @@
-repo: b7149a41df63c53984b441f016f89b4cdf9bfc0e
-node: 32a3948c5d5c87047f7febd0564026338947b1ac
-branch: default
-latesttag: Cosmic Calimero
-latesttag: v1.2
-latesttagdistance: 211

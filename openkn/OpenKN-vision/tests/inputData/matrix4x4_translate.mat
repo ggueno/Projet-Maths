@@ -1,8 +1,0 @@
-# 3d translation matrix
-row 4
-col 4
-
-1 0 0 10
-0 1 0 20
-0 0 1 30
-0 0 0 1

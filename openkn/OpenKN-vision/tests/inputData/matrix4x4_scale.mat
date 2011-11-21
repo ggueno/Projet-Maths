@@ -1,8 +1,0 @@
-# 3d scale matrix
-row 4
-col 4
-
-2 0 0 0
-0 3 0 0
-0 0 4 0
-0 0 0 1
