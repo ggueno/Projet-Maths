@@ -1,0 +1,9 @@
+#Utiliser la syntaxe du shell pour les regexps
+syntax: glob
+
+#Fichiers temporaires
+*~
+*.o
+*.swp
+*/build/
+*testrunner*

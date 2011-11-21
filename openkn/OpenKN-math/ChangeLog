@@ -1,0 +1,63 @@
+#***************************************************************************\
+# Copyright (C) by University Paris-Est - MISS team
+# ChangeLog created in 11 2008.
+# Mail : biri@univ-mlv.fr
+#
+# This file is part of the OpenKraken-math.
+#
+# The OpenKraken-math is free software; you can redistribute it and/or modify
+# it under the terms of the GNU Lesser General Public License as published by
+# the Free Software Foundation; either version 3 of the License, or
+# (at your option) any later version.
+#
+# The OpenKraken-math is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU Lesser General Public License for more details.
+#
+# You should have received a copy of the GNU Lesser General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+#
+#***************************************************************************/
+
+#OpenKN-math ChangeLog
+
+
+#
+# V1.2
+#
+MathIO
+RQDecomposition
+Determinant
+Lots of bugs
+
+#
+# V1.1
+#
+
+#Added Class
+Vector2 with tests
+
+#Modifications
+Matrix3x3 - debug
+Matrix4x4 - debug
+Vector3 - debug
+Vector4 - debug
+
+
+#
+# V1.0
+#
+
+#Added Classes
+InverseMatrix with tests
+MathException with tests
+MathTools with tests
+Matrix3x3 with tests
+Matrix4x4 with tests
+Matrix with tests
+Solver with tests
+SVD with tests
+Vector3 with tests
+Vector4 with tests
+Vector with tests
